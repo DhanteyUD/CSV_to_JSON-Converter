@@ -1,0 +1,27 @@
+" User 2 - PIN 164222 - StaffID : ID 164222"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),"No Clock","No Clock",00:00:00,,
+2,2022-07-02(Sat),"No Clock","No Clock",00:00:00,,
+3,2022-07-03(Sun),"No Clock","No Clock",00:00:00,,
+4,2022-07-04(Mon),"No Clock","No Clock",00:00:00,,
+5,2022-07-05(Tue),"No Clock","No Clock",00:00:00,,
+Total,,,,0:0:0
+,
+"User 2 - PIN 166949 - StaffID : ID166949"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),"No Clock","No Clock",00:00:00,,
+2,2022-07-02(Sat),"No Clock","No Clock",00:00:00,,
+3,2022-07-03(Sun),"No Clock","No Clock",00:00:00,,
+4,2022-07-04(Mon),"No Clock","No Clock",00:00:00,,
+5,2022-07-05(Tue),"No Clock","No Clock",00:00:00,,
+Total,,,,0:0:0
+,
+"User 3 - PIN 171931 - StaffID : ID171931"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),12:59:49,"No Clock",00:00:00,,
+2,2022-07-02(Sat),"No Clock","No Clock",00:00:00,,
+3,2022-07-03(Sun),"No Clock","No Clock",00:00:00,,
+4,2022-07-04(Mon),"No Clock","No Clock",00:00:00,,
+5,2022-07-05(Tue),10:59:51,23:24:57,12:25:06,,
+Total,,,,143:31:3
+,

@@ -1,0 +1,67 @@
+/** @format */
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dropzone {
+  background: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: right;
+  margin-top: 100px;
+  padding: 20px;
+  cursor: pointer;
+  height: 150px;
+  width: 400px;
+  border: 2px solid rgb(0, 0, 0);
+  outline: none;
+  position: relative;
+}
+.dropzone:hover {
+  box-shadow: 0 0 5px 6px rgba(21, 119, 176, 0.272);
+}
+
+.dropzoneReject {
+  border: 2px dashed red;
+}
+
+.dropzoneAccept {
+  border: 2px dashed green;
+}
+
+.d-n-d {
+  position: absolute;
+  bottom: 100%;
+  font-weight: 600;
+}
+
+.button {
+  margin-top: 20px;
+  height: 40px;
+}
+.button:hover {
+  background-color: green;
+  color: #fff;
+  border: 2px solid black;
+}
+
+table {
+  margin-top: 50px;
+}
+
+table td {
+  padding: 5px;
+}
+
+table th {
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+table th:hover {
+  background-color: #ddd;
+}
